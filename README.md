@@ -8,6 +8,18 @@ Everything runs on your desktop. No API costs. No cloud dependency. No data leav
 
 ---
 
+## Demo
+
+[Watch the demo video](https://github.com/manishehehe/LazyFlow/releases/tag/v1.0.0) — 1 min 53 sec
+
+The demo shows:
+- LazyFlow launching at `localhost:3131` with the green sparkle icon in the browser tab
+- **Chat mode** — asking "hello who are you?" and getting a natural response from Gemma 2 2B running locally
+- **Agent mode** — asking LazyFlow to open Notion and create a new page titled "What is Ollama?" with written content
+- The Notion page appearing live inside Notion with formatted headings and paragraphs — created entirely through LazyFlow
+
+---
+
 ## What This Project Does
 
 LazyFlow acts like a local version of Claude Code or GitHub Copilot, but powered entirely by open-source models running on your own hardware.
